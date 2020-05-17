@@ -11,6 +11,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
